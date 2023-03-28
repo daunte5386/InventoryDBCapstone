@@ -1,0 +1,55 @@
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.config
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.pdb
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.csprojResolveAssemblyReference.cache
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.ComputerFrm.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.DBConnectionStringFrm.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.mainMenuFrm.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.MonitorFrm.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.PrinterFrm.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.Properties.Resources.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.ServerFrm.resources
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.csproj.GenerateResource.Cache
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe
+L:\Capstone Course\And Again\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.pdb
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.config
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.pdb
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.csprojResolveAssemblyReference.cache
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.ComputerFrm.resources
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.mainMenuFrm.resources
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.MonitorFrm.resources
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.PrinterFrm.resources
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.Properties.Resources.resources
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.ServerFrm.resources
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.csproj.GenerateResource.Cache
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDB.sdf
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe
+D:\My C# Applications\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.pdb
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.config
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.pdb
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDB.sdf
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.manifest
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.application
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.pdb
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.csprojResolveAssemblyReference.cache
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.ComputerFrm.resources
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.mainMenuFrm.resources
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.MonitorFrm.resources
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.PrinterFrm.resources
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.Properties.Resources.resources
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.ServerFrm.resources
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.csproj.GenerateResource.Cache
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe.manifest
+D:\My C# Applications\Pre Modded\InfrastructureInventoryApplication\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.application
+L:\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.config
+L:\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe
+L:\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.pdb
+C:\Users\Daunte\Desktop\USB Stuff\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.config
+C:\Users\Daunte\Desktop\USB Stuff\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe
+C:\Users\Daunte\Desktop\USB Stuff\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.pdb
+M:\Windows 10 Machine Backups\Desktop\USB Stuff\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\bin\Debug\InventoryDBApp.exe.config
+M:\Windows 10 Machine Backups\Desktop\USB Stuff\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.exe
+M:\Windows 10 Machine Backups\Desktop\USB Stuff\Capstone Course\And Again\InventoryApp\InventoryApp\InventoryDBApp\obj\Debug\InventoryDBApp.pdb
